@@ -2,7 +2,7 @@
 { DMICP Based Code Header                                  }
 { Unit Name : ConvertFilesToANSI.ps1                       }
 { File Ref  : AD1905241400                                 }
-{ Added By  : Antony Danby                                 }
+{ Added By  : Fred Blogs                                   }
 { -------------------------------------------------------- }
 { Development History                                      }
 {- Date           : AD1905241400                           }
